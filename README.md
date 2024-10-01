@@ -78,4 +78,23 @@ This project includes dbt models to transform raw Microsoft product data into me
     ```bash
     dbt docs serve
     ```
+## 🛠️ Difficulties
+- Handling large datasets efficiently.
+- Ensuring the performance of complex transformation queries in dbt.
+- Managing incremental loads for continuously updated data.
 
+## 🔧 Points to Improve
+- Optimize transformation logic to reduce processing time.
+- Implement more detailed data quality checks using dbt’s built-in testing framework.
+- Improve the modularity of dbt models for better reusability.
+## 🛠 Tools
+- **dbt (Data Build Tool)**: For transformation and analysis of data.
+- **SQL Server**: As the database for storing Microsoft product data.
+- **Git**: For version control.
+## 🏗 Architecture
+The architecture of the project consists of:
+1. **Raw Data**: Microsoft product data collected from various sources.
+2. **dbt Models**: Transformation layers that clean and structure the data.
+3. **Analytics**: Ready-to-use datasets for analysis and reporting.
+
+![Project Architecture](path_to_your_architecture_diagram.png)
