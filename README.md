@@ -98,3 +98,6 @@ The architecture of the project consists of:
 3. **Analytics**: Ready-to-use datasets for analysis and reporting.
 
 ![Project Architecture](./images/dbt.png)
+## 📞 Contact
+For any questions or issues, feel free to reach out:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiha-el-mansouri-27505b250/)
