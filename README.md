@@ -97,4 +97,4 @@ The architecture of the project consists of:
 2. **dbt Models**: Transformation layers that clean and structure the data.
 3. **Analytics**: Ready-to-use datasets for analysis and reporting.
 
-![Project Architecture](path_to_your_architecture_diagram.png)
+![Project Architecture](./images/dbt.png)
